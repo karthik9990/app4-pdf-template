@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59c6fe80-2190-4443-a68a-8907be3253a8" name="Changes" comment="git ignore is added">
+    <list default="true" id="59c6fe80-2190-4443-a68a-8907be3253a8" name="Changes" comment="Add more pages to CSV file ( in Pages)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711489062977</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add more pages to CSV file ( in Pages)">
+      <option name="closed" value="true" />
+      <created>1711489629717</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711489629717</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,6 +135,7 @@
     <MESSAGE value="Intial Commit" />
     <MESSAGE value="Added the pages with using CSV file provided, &#10;&gt;&gt; added underline &#10;&gt;&gt;" />
     <MESSAGE value="git ignore is added" />
-    <option name="LAST_COMMIT_MESSAGE" value="git ignore is added" />
+    <MESSAGE value="Add more pages to CSV file ( in Pages)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add more pages to CSV file ( in Pages)" />
   </component>
 </project>
